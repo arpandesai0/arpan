@@ -1,0 +1,35 @@
+
+
+
+@font-face {
+    font-family: 'kumbh_sansregular';
+    src: url('kumbhsans-regular-webfont.woff2') format('woff2'),
+         url('kumbhsans-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+body {
+        background:url("log success.png");
+        background-size:cover;
+   }
+
+#welcome{
+        font-family:'kumbh_sansregular';
+        color:#3be5f2;
+        display-block;
+
+        margin-left:50%;
+        margin-top:150px;
+        transform:translateX(-50%);
+
+        font-size:40px;
+
+
+        text-alignment:center;
+
+
+
+}
