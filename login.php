@@ -12,7 +12,7 @@
 </head>
 <body>
     <div class="title">
-    <p  class="menu" onclick="window.location.href='index.html';" >HOME</p>
+    <p  class="menu" onclick="window.location.href='index.php';" >HOME</p>
     <p onclick="window.location.href='login.php';" class="login" >Log In</p>
     <p onclick="window.location.href='sign.php';" class="sign" >Sign Up</p>
     </div>
