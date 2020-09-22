@@ -15,7 +15,7 @@
     <p onclick="window.location.href='sign.php';" class="sign" >Sign Up</p>
 </div>
 
-<para id="Intro">Hey Guys. I am<span id="link" onclick="window.location.href='https://www.instagram.com/_arpan_desai_/';" > Arpan Desai </span>(11 August 2001 � Present), a proffesional web developer for India. Currently I am an under graduate from NIT Nagpur. This is my first webpage and I promise you that I will keep it updating every week. Make sure to follow me on<span id="insta"onclick="window.location.href='https://www.instagram.com/_arpan_desai_/';"  > Instagram. </span> </para>
+<para id="Intro">Hey Guys. I am<span id="link" onclick="window.location.href='https://www.instagram.com/_arpan_desai_/';" > Arpan Desai </span>(11 August 2001 � Present), a proffesional web developer from India. Currently I am an under graduate from NIT Nagpur. This is my first webpage and I promise you that I will keep it updating every week. Make sure to follow me on<span id="insta"onclick="window.location.href='https://www.instagram.com/_arpan_desai_/';"  > Instagram. </span> </para>
 
 
 
