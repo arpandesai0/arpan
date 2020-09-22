@@ -10,8 +10,8 @@
 </head>
 <body style=background-color: #e5e4e2;">
 <div class="title">
-    <p  class="menu" onclick="window.location.href='index.html';" >HOME</p>
-    <p onclick="window.location.href='login.html';" class="login" >Log In</p>
+    <p  class="menu" onclick="window.location.href='index.php';" >HOME</p>
+    <p onclick="window.location.href='login.php';" class="login" >Log In</p>
     <p onclick="window.location.href='sign.php';" class="sign" >Sign Up</p>
 </div>
 
@@ -22,8 +22,8 @@
 
     <br>
 
-    <img title="Avicii" id="Steve" src="ad.jpg" onclick="window.location.href='https://en.wikipedia.org/wiki/Avicii';">
-
+    <img title="Avicii" id="Steve" src="ad.jpg" 
+id="link" onclick="window.location.href='https://www.instagram.com/_arpan_desai_/';"/>
 
 </body>
 </html>
